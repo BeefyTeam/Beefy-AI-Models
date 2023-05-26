@@ -1,7 +1,7 @@
 # Beefy-AI-Models
 Special repository for the development of AI Beefy models for meat freshness classification and pork detection
 
-<a href="https://ibb.co/RDY9fCv"><img src="https://i.ibb.co/z4QrpSn/MODELS-1.png" alt="MODELS-1" border="0" /></a>
+<div style="text-align:center"><img src="https://i.ibb.co/z4QrpSn/MODELS-1.png" alt="MODELS-1" border="0" /></div>
 
 
 ## Tech Stack
